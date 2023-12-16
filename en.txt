@@ -1,4 +1,9 @@
 Calm down
+<<<<<<< HEAD
 Keep up
+=======
+Turn on
+Turn off
+>>>>>>> ec9a8c6b8bca926f5e91323233ffdd513d660aa1
 Set up
 
